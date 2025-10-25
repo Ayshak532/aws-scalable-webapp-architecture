@@ -68,5 +68,5 @@ The design follows AWS Well-Architected Framework principles focusing on securit
 ## 👩‍💻 Author
 Aysha K  
 AWS Certified Cloud Practitioner | Cloud & Data Enthusiast  
-📧 [your-email@example.com]  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
+📧 [your-ayshak532532@gmail.com]  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/aysha k-b933b5290)
